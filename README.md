@@ -1,2 +1,3 @@
 # SampleRepo
-Example Repo for demo purposes
+
+This is an example repository for demonstration purposes.
